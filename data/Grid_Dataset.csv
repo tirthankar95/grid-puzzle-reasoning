@@ -1,0 +1,20 @@
+question,answer
+"At the farmers market, four friends each bought a different fruit at different prices. Each fruit had a different color wrapper. Can you determine which fruit each friend bought, its price, and wrapper color?
+Categories:
+['Price', 'Fruit', 'Color']
+
+Price: ['$2.50', '$3.75', '$4.25', '$5.00']
+Fruit: ['Apple', 'Banana', 'Orange', 'Grape']
+Color: ['Red', 'Yellow', 'Orange', 'Purple']
+
+
+Clues:
+1. The fruit priced at $5.00 comes with a Purple wrapper. 
+2. The Banana costs $4.25 and comes with a Yellow wrapper. 
+3. The fruit priced at $2.50 is either the Grape or has the Orange wrapper. 
+4. The fruit priced at $3.75 is the Orange fruit.
+
+
+While answering use the following format:
+Step-by-step solution:
+Create a table out of your solution where each column represents the categories in the order listed above.","xyz"

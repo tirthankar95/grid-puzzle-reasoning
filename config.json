@@ -1,4 +1,4 @@
 {
-    "local_model_dir": "Qwen2.5-3B-Instruct",
+    "local_model_dir": "/Users/tmittra/models/Qwen2-1.5B-Instruct",
     "batch_size": 16 
 }
